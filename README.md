@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Sipke Schoorstra
+#### Software Engineer
+![Software Engineer](https://miro.medium.com/max/3600/1*24_Rpx6YmD6uZUpNrliGCw.jpeg)
 
-<!--
-**sfmskywalker/sfmskywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior full stack software engineer with a true passion for .NET based software development and cloud computing.
 
-Here are some ideas to get you started:
+Skills: C#, .NET Core, Azure, Kubernetes, React, WebPack, SQL, NOSQL, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on Elsa Workflows, an open source .NET Standard library 🌱 I’m currently learning Blazor 💬 Ask me about Anything 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sfmskywalker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sfmskywalker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sfmskywalker/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/SipkeSchoorstra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sfmskywalker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/690374/sipke-schoorstra)  
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=sfmskywalker&show_icons=true)![Profile views](https://gpvc.arturio.dev/sfmskywalker)  
