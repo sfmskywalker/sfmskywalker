@@ -6,6 +6,7 @@ I am a senior full stack software engineer with a true passion for .NET based so
 
 Skills: C#, .NET Core, ASP.NET Core, Orchard Core, Blazor,  React, WebPack, SQL, NOSQL, Azure, Kubernetes
 
+🔭 I’m currently working on Elsa Workflows, an open source .NET Standard library 
 🔭 I’m currently working on Blazing Orchard, an open source .NET Standard library 
 🌱 I’m currently learning F# 
 💬 Ask me about Anything 
