@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sipke Schoorstra
 #### Software Engineer
-![Software Engineer](https://miro.medium.com/max/3600/1*24_Rpx6YmD6uZUpNrliGCw.jpeg)
+![Elsa 3.0](https://v3.elsaworkflows.io/_next/static/media/elsa-android.3c4de958.png)
 
 I am a senior full stack software engineer with a true passion for .NET based software development and cloud computing.
 
