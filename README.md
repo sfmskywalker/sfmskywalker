@@ -1,10 +1,13 @@
 ### Hi there 👋, my name is Sipke Schoorstra
 #### Software Engineer
-![Elsa 3.0](https://v3.elsaworkflows.io/_next/static/media/elsa-android.3c4de958.png)
 
 I am a senior full stack software engineer with a true passion for .NET based software development and cloud computing.
 
 Skills: C#, .NET Core, ASP.NET Core, Orchard Core, Blazor,  React, WebPack, SQL, NOSQL, Azure, Kubernetes
+
+### Elsa Workflows
+
+![Elsa 3.0](https://v3.elsaworkflows.io/_next/static/media/elsa-android.3c4de958.png)
 
 * 🔭 I’m currently working on Elsa Workflows, an open source .NET Standard library 
 * 💬 Ask me about Anything 
