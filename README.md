@@ -1,15 +1,45 @@
-### Hi there 👋, my name is Sipke Schoorstra
-#### Software Engineer
+<h3 align="center">👋 Hey there, I'm Sipke Schoorstra!</h3>
+<p align="center">
+  <i>A passionate Software Engineer specializing in .NET and cloud computing 🚀</i>
+</p>
 
-I am a senior full stack software engineer with a true passion for .NET based software development and cloud computing.
+<p align="center">
+  <img src="https://v3.elsaworkflows.io/_next/static/media/elsa-android.3c4de958.png" alt="Elsa 3.0" />
+</p>
 
-Skills: C#, .NET Core, ASP.NET Core, Orchard Core, Blazor,  React, WebPack, SQL, NOSQL, Azure, Kubernetes
+---
 
-### Elsa Workflows
+I'm a **Senior Full Stack Software Engineer** with a zeal for crafting robust software solutions. With a focus on **.NET** ecosystems and **cloud computing**, I thrive on building scalable, high-quality applications.
 
-![Elsa 3.0](https://v3.elsaworkflows.io/_next/static/media/elsa-android.3c4de958.png)
+🛠 **Technologies & Tools:**
 
-* 🔭 I’m currently working on Elsa Workflows, an open source .NET Standard library 
-* 💬 Ask me about Anything 
+- **Languages & Frameworks:** C#, .NET Core, ASP.NET Core, Blazor
+- **Front-End:** React, WebPack
+- **Databases:** SQL, NoSQL
+- **Cloud & DevOps:** Azure, Kubernetes, Docker
+- **CMS:** Orchard Core
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sfmskywalker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sfmskywalker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sfmskywalker/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/SipkeSchoorstra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sfmskywalker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/690374/sipke-schoorstra)  
+Currently, I'm pouring my heart into **Elsa Workflows** - an open-source .NET Standard library designed for building workflows with ease and efficiency. It's more than just code to me; it's about enabling creativity and productivity for developers around the globe.
+
+📈 **GitHub Stats:**
+
+![Sipke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sfmskywalker&show_icons=true&theme=radical)
+
+🎯 **Projects Showcase:**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elsa-workflows&repo=elsa-core&theme=radical)](https://github.com/elsa-workflows/elsa-core)
+
+📫 **Let's Connect:**
+
+- **GitHub:** [sfmskywalker](https://github.com/sfmskywalker)
+- **Dev.to:** [sfmskywalker](https://dev.to/sfmskywalker)
+- **LinkedIn:** [Sipke Schoorstra](https://www.linkedin.com/in/sfmskywalker/)
+- **Facebook:** [Sipke Schoorstra](https://www.facebook.com/SipkeSchoorstra)
+- **Twitter:** [@sfmskywalker](https://twitter.com/sfmskywalker)
+- **Stack Overflow:** [Sipke Schoorstra](https://stackoverflow.com/users/690374/sipke-schoorstra)
+
+---
+
+💡 **I'm always open to discussing new ideas, technologies, or the potential for collaboration. Feel free to reach out if you want to chat about anything from coding challenges to cloud architecture!**
+
+---
