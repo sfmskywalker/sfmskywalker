@@ -14,7 +14,7 @@ I'm a **Senior Full Stack Software Engineer** with a zeal for crafting robust so
 🛠 **Technologies & Tools:**
 
 - **Languages & Frameworks:** C#, .NET Core, ASP.NET Core, Blazor
-- **Front-End:** React, WebPack
+- **Front-End:** React, WebPack, Blazor
 - **Databases:** SQL, NoSQL
 - **Cloud & DevOps:** Azure, Kubernetes, Docker
 - **CMS:** Orchard Core
@@ -41,5 +41,3 @@ Currently, I'm pouring my heart into **Elsa Workflows** - an open-source .NET St
 ---
 
 💡 **I'm always open to discussing new ideas, technologies, or the potential for collaboration. Feel free to reach out if you want to chat about anything from coding challenges to cloud architecture!**
-
----
