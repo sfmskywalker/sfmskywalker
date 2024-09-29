@@ -3,10 +3,6 @@
   <i>A passionate Software Engineer specializing in .NET and cloud computing 🚀</i>
 </p>
 
-<p align="center">
-  <img src="https://v3.elsaworkflows.io/_next/static/media/elsa-android.3c4de958.png" alt="Elsa 3.0" />
-</p>
-
 ---
 
 I'm a **Senior Full Stack Software Engineer** with a zeal for crafting robust software solutions. With a focus on **.NET** ecosystems and **cloud computing**, I thrive on building scalable, high-quality applications.
@@ -20,6 +16,10 @@ I'm a **Senior Full Stack Software Engineer** with a zeal for crafting robust so
 - **CMS:** Orchard Core
 
 Currently, I'm pouring my heart into **Elsa Workflows** - an open-source .NET Standard library designed for building workflows with ease and efficiency. It's more than just code to me; it's about enabling creativity and productivity for developers around the globe.
+
+<p align="center">
+  <img src="https://v3.elsaworkflows.io/_next/static/media/elsa-android.3c4de958.png" alt="Elsa 3.0" />
+</p>
 
 📈 **GitHub Stats:**
 
