@@ -1,39 +1,139 @@
-<h3 align="center">👋 Hey there, I'm Sipke Schoorstra!</h3>
+<h1 align="center">👋 Hi, I'm Sipke Schoorstra</h1>
+
 <p align="center">
-  <i>A passionate Software Engineer specializing in .NET and cloud computing 🚀</i>
+  Creator of <a href="https://www.elsaworkflows.io">Elsa Workflows</a> • Software Architect • Open Source Maintainer • .NET Enthusiast
+</p>
+
+<p align="center">
+  Building tools, frameworks, and platforms that help developers create better software.
 </p>
 
 ---
 
-I'm a **Senior Full Stack Software Engineer** with a zeal for crafting robust software solutions. With a focus on **.NET** ecosystems and **cloud computing**, I thrive on building scalable, high-quality applications.
+## About Me
 
-🛠 **Technologies & Tools:**
+I'm an independent software engineer from the Netherlands and the creator of **Elsa Workflows**, one of the most widely used workflow engines in the .NET ecosystem.
 
-- **Languages & Frameworks:** C#, .NET Core, ASP.NET Core, Blazor
-- **Front-End:** React, WebPack, Blazor
-- **Databases:** SQL, NoSQL
-- **Cloud & DevOps:** Azure, Kubernetes, Docker
-- **CMS:** Orchard Core
+My work focuses on:
 
-Currently, I'm pouring my heart into **Elsa Workflows** - an open-source .NET Standard library designed for building workflows with ease and efficiency. It's more than just code to me; it's about enabling creativity and productivity for developers around the globe.
+- Workflow automation
+- Distributed systems
+- Cloud-native applications
+- Developer tooling
+- Open source software
+- AI-powered applications
+- Blockchain and smart contract technology
 
-📈 **GitHub Stats:**
-
-![Sipke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sfmskywalker&show_icons=true&theme=radical)
-
-🎯 **Projects Showcase:**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elsa-workflows&repo=elsa-core&theme=radical)](https://github.com/elsa-workflows/elsa-core)
-
-📫 **Let's Connect:**
-
-- **GitHub:** [sfmskywalker](https://github.com/sfmskywalker)
-- **Dev.to:** [sfmskywalker](https://dev.to/sfmskywalker)
-- **LinkedIn:** [Sipke Schoorstra](https://www.linkedin.com/in/sfmskywalker/)
-- **Facebook:** [Sipke Schoorstra](https://www.facebook.com/SipkeSchoorstra)
-- **Twitter:** [@sfmskywalker](https://twitter.com/sfmskywalker)
-- **Stack Overflow:** [Sipke Schoorstra](https://stackoverflow.com/users/690374/sipke-schoorstra)
+I enjoy building products that developers can use to solve real-world problems, from workflow orchestration and observability to automation platforms and application frameworks.
 
 ---
 
-💡 **I'm always open to discussing new ideas, technologies, or the potential for collaboration. Feel free to reach out if you want to chat about anything from coding challenges to cloud architecture!**
+## Highlights
+
+- Creator and lead maintainer of Elsa Workflows
+- Member of the .NET Foundation ecosystem
+- Contributor to Orchard Core
+- Founder of Valence Works
+- Maintainer of multiple open-source frameworks and developer tools
+
+---
+
+## 🌐 Websites
+
+| Project | Website |
+|----------|----------|
+| Elsa Workflows | https://www.elsaworkflows.io |
+| Elsa Platform | https://www.elsaplatform.com |
+| Loom Framework | https://www.loomframework.dev |
+| Aster Framework | https://www.asterframework.io |
+| .NET Webhooks | https://www.dotnetwebhooks.dev |
+| NuPlane | https://nuplane.io |
+| Valence Works | https://valence.works |
+| Skywalker Digital | https://skywalker-digital.com |
+
+---
+
+## 🚀 Featured Open Source Projects
+
+### Elsa Ecosystem
+
+| Project | Description |
+|----------|-------------|
+| [Elsa Core](https://github.com/elsaworkflows/elsa-core) | Workflow engine for .NET applications |
+| [Elsa Studio](https://github.com/elsaworkflows/elsa-studio) | Modern workflow designer and management UI |
+| [Elsa Platform](https://github.com/elsaworkflows/elsa-platform) | Complete workflow automation platform |
+| [Elsa Blog](https://github.com/elsaworkflows/elsa-blog) | Content and articles around Elsa |
+
+### Frameworks & Developer Tooling
+
+| Project | Description |
+|----------|-------------|
+| [Loom](https://github.com/valence-works/loom) | Application framework for composable systems |
+| [Aster](https://github.com/valence-works/aster) | Resource modeling framework inspired by Orchard Core |
+| [NuPlane](https://github.com/valence-works/nuplane) | NuGet package management and distribution tooling |
+| [CShells](https://github.com/valence-works/cshells) | Shell and command-line infrastructure for .NET |
+| [Agentskills.NET](https://github.com/valence-works/agentskillsdotnet) | AI agent skills framework for .NET |
+
+### Infrastructure & Integration
+
+| Project | Description |
+|----------|-------------|
+| [Webhooks](https://github.com/valence-works/webhooks) | Webhook infrastructure for .NET applications |
+| [Console Log Streaming](https://github.com/valence-works/console-log-streaming) | Real-time console output streaming |
+| [ProofEnvelope](https://github.com/valence-works/proofenvelope) | Digital proof and authenticity tooling |
+| [Elsa Pro Docker](https://github.com/valence-works/elsa-pro-docker) | Production-ready Elsa deployment artifacts |
+
+---
+
+## 🛠 Technology Focus
+
+```text
+Languages
+├─ C#
+├─ TypeScript
+├─ JavaScript
+└─ SQL
+
+Backend
+├─ .NET
+├─ ASP.NET Core
+├─ Blazor
+├─ SignalR
+└─ OpenTelemetry
+
+Frontend
+├─ React
+├─ Vite
+├─ MudBlazor
+└─ Web Components
+
+Infrastructure
+├─ Docker
+├─ Kubernetes
+├─ Azure
+├─ PostgreSQL
+├─ SQL Server
+├─ MongoDB
+├─ RabbitMQ
+└─ Kafka
+````
+
+---
+
+## 📊 GitHub
+
+![GitHubCard](https://githubcard.com/sfmskywalker.svg)
+
+---
+
+## 🤝 Connect
+
+* GitHub: [https://github.com/sfmskywalker](https://github.com/sfmskywalker)
+* LinkedIn: [https://www.linkedin.com/in/sfmskywalker](https://www.linkedin.com/in/sfmskywalker)
+* Dev.to: [https://dev.to/sfmskywalker](https://dev.to/sfmskywalker)
+* X/Twitter: [https://twitter.com/sfmskywalker](https://twitter.com/sfmskywalker)
+* Stack Overflow: [https://stackoverflow.com/users/690374/sipke-schoorstra](https://stackoverflow.com/users/690374/sipke-schoorstra)
+
+---
+
+> Building open source software that empowers developers to automate, orchestrate, and innovate.
